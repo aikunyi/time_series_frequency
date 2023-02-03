@@ -48,7 +48,9 @@ FEDformer [[paper]](https://arxiv.org/abs/2201.12740) proposes Fourier enhanced 
 EV-FGN [[paper]](https://arxiv.org/abs/2210.03093) reformulates the graph convolution operator in the frequency domain and efficiently computes graph convolutions over a supra-graph which represents non-static correlations between any two variables at any two timestamps.<br>
 ## Network design
 ### complex-value
+In fact, there are mainly two approaches for performing neural networks on complex value. One approach is to treat each part of complex value as a feature and then feed them to neural networks, respectively. The other one is to conduct complex multiplication in the frequency domain directly. 
 ### real-value
+Except for capturing frequency patterns, in contrast to other network design, one main purpose of network design for frequency-based models is the frequency component selection to decide which component is discriminative or critical. 
 ## Applications
 ### Forecasting
 Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, In KDD, 2017. [[paper]](https://dl.acm.org/doi/10.1145/3097983.3098117) <br>
