@@ -27,7 +27,7 @@ mWDN [[paper]](https://arxiv.org/abs/1806.08946) proposes a wavelet-based neural
 
 RobustPeriod [[paper]](https://dl.acm.org/doi/abs/10.1145/3448016.3452779) applies maximal overlap discrete wavelet transform to decouple time series into multiple levels of wavelet coefficients and then detect single periodicity at each level.<br>
 
-FEDformer [[paper]]()https://arxiv.org/abs/2201.12740) combines Fourier analysis with the Transformer which helps Transformer better capture global properties of time series. <br>
+FEDformer [[paper]](https://arxiv.org/abs/2201.12740) combines Fourier analysis with the Transformer which helps Transformer better capture global properties of time series. <br>
 
 FFC [[paper]](https://papers.nips.cc/paper/2020/file/2fd5d41ec6cfab47e32164d5624269b1-Paper.pdf) harnesses the Fourier spectral theory and designs an operation unit to leverage frequency information for enlarging the receptive field of vanilla convolutions. <br>
 
@@ -71,8 +71,11 @@ Unsupervised time-series representation learning with iterative bilinear tempora
 Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, in NIPS 2022, [[paper]](https://openreview.net/forum?id=OJ4mMfGKLN) <br>
 ## Discussion for Future Opportunities
 ### Leveraging New Orthogonal Transform Technology
+In future, it would be a promising direction to incorporate more new orthogonal transform technologies for deep learning in time series analysis, such as orthogonal polynomials, DCT, and FrFT.
 ### Combination of Fourier Transform with Deep Learning
+In future, combination of Fourier transform with deep learning deserves further investigating.
 ### Combination of Learning in the Time and Frequency Domain
+More time-frequency representation learning methods are required in the future.
 
 
 
