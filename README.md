@@ -60,7 +60,7 @@ FEDformer: Frequency enhanced decomposed transformer for long-term series foreca
 ) [[code]](https://github.com/MAZiqing/FEDformer) <br>
 Cost: Contrastive learning of disentangled seasonal-trend representations for time series forecasting. In ICLR, 2022. [[paper]](https://arxiv.org/abs/2202.01575) [[code]](https://github.com/salesforce/CoST) <br>
 Film: Frequency improved legendre memory model for long-term time series forecasting. In NIPS, 2022. [[paper]](https://openreview.net/forum?id=zTQdHSQUQWc) [[code]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM) <br>
-Edge-Varying Fourier Graph Networks for Multivariate Time Series Forecasting. In arXiv, 2022. [[paer]](https://arxiv.org/abs/2210.03093) <br>
+Edge-Varying Fourier Graph Networks for Multivariate Time Series Forecasting. In arXiv, 2022. [[paper]](https://arxiv.org/abs/2210.03093) <br>
 ### Anomaly Detection
 Time-series anomaly detection service at microsoft. In KDD, 2019. [[paper]](https://arxiv.org/abs/1906.03821) <br>
 Robusttad: Robust time series anomaly detection via decomposition and convolutional neural networks. In arXiv, 2020. [[paper]](https://arxiv.org/abs/2002.09545) <br>
