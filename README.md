@@ -65,7 +65,7 @@ Edge-Varying Fourier Graph Networks for Multivariate Time Series Forecasting. In
 Time-series anomaly detection service at microsoft. In KDD, 2019. [[paper]](https://arxiv.org/abs/1906.03821) <br>
 Robusttad: Robust time series anomaly detection via decomposition and convolutional neural networks. In arXiv, 2020. [[paper]](https://arxiv.org/abs/2002.09545) <br>
 Fast and accurate partial fourier transform for time series data. In KDD, 2021. [[paper]](https://dl.acm.org/doi/10.1145/3447548.3467293) [[code]](https://github.com/snudatalab/PFT) <br>
-TFAD: A decomposition time series anomaly detection architecture with time-frequency analysis. In CIKM, 2022. [[paper]](https://arxiv.org/abs/2210.09693) [[paper]](https://github.com/DAMO-DI-ML/CIKM22-TFAD) <br>
+TFAD: A decomposition time series anomaly detection architecture with time-frequency analysis. In CIKM, 2022. [[paper]](https://arxiv.org/abs/2210.09693) [[code]](https://github.com/DAMO-DI-ML/CIKM22-TFAD) <br>
 ### Classification
 Multilevel wavelet decomposition network for interpretable time series analysis. In KDD, 2018. [[paper]](https://arxiv.org/abs/1806.08946) <br>
 Learning filter widths of spectral decompositions with wavelets. In NeurIPS, 2018. [[paper]](https://dl.acm.org/doi/10.5555/3327345.3327371) <br>
