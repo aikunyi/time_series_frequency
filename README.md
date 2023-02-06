@@ -68,7 +68,7 @@ Fast and accurate partial fourier transform for time series data. In KDD, 2021. 
 TFAD: A decomposition time series anomaly detection architecture with time-frequency analysis. In CIKM, 2022. [[paper]](https://arxiv.org/abs/2210.09693) [[code]](https://github.com/DAMO-DI-ML/CIKM22-TFAD) <br>
 ### Classification
 Multilevel wavelet decomposition network for interpretable time series analysis. In KDD, 2018. [[paper]](https://arxiv.org/abs/1806.08946) <br>
-Learning filter widths of spectral decompositions with wavelets. In NeurIPS, 2018. [[paper]](https://dl.acm.org/doi/10.5555/3327345.3327371) <br>
+Learning filter widths of spectral decompositions with wavelets. In NeurIPS, 2018. [[paper]](https://dl.acm.org/doi/10.5555/3327345.3327371) [[code]](https://github.com/haidark/WaveletDeconv) <br>
 Unsupervised time-series representation learning with iterative bilinear temporal-spectral fusion. In ICML, 2022. [[paper]](https://arxiv.org/abs/2202.04770) <br>
 Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, in NIPS 2022, [[paper]](https://openreview.net/forum?id=OJ4mMfGKLN) [[code]](https://github.com/mims-harvard/TFC-pretraining) <br>
 ## Discussion for Future Opportunities
