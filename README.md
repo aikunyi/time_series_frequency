@@ -54,23 +54,23 @@ Except for capturing frequency patterns, in contrast to other network design, on
 ## Applications
 ### Forecasting
 Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, In KDD, 2017. [[paper]](https://dl.acm.org/doi/10.1145/3097983.3098117) <br>
-Spectral temporal graph neural network for multivariate time-series forecasting. In NeurIPS, 2020. [[paper]](https://arxiv.org/abs/2103.07719)  <br>
-Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting. In NeurIPS, 2020. [[paper]](https://openreview.net/forum?id=I55UqU-M11y) <br>
+Spectral temporal graph neural network for multivariate time-series forecasting. In NeurIPS, 2020. [[paper]](https://arxiv.org/abs/2103.07719) [[code]](https://github.com/microsoft/StemGNN) <br>
+Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting. In NeurIPS, 2020. [[paper]](https://openreview.net/forum?id=I55UqU-M11y) [[code]](https://github.com/thuml/Autoformer) <br>
 FEDformer: Frequency enhanced decomposed transformer for long-term series forecasting. In ICML, 2022. [[paper]](https://arxiv.org/abs/2201.12740
-) <br>
-Cost: Contrastive learning of disentangled seasonal-trend representations for time series forecasting. In ICLR, 2022. [[paper]](https://arxiv.org/abs/2202.01575) <br>
-Film: Frequency improved legendre memory model for long-term time series forecasting. In NIPS, 2022. [[paper]](https://openreview.net/forum?id=zTQdHSQUQWc) <br>
+) [[code]](https://github.com/MAZiqing/FEDformer) <br>
+Cost: Contrastive learning of disentangled seasonal-trend representations for time series forecasting. In ICLR, 2022. [[paper]](https://arxiv.org/abs/2202.01575) [[code]](https://github.com/salesforce/CoST) <br>
+Film: Frequency improved legendre memory model for long-term time series forecasting. In NIPS, 2022. [[paper]](https://openreview.net/forum?id=zTQdHSQUQWc) [[code]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM) <br>
 Edge-Varying Fourier Graph Networks for Multivariate Time Series Forecasting. In arXiv, 2022. [[paer]](https://arxiv.org/abs/2210.03093) <br>
 ### Anomaly Detection
 Time-series anomaly detection service at microsoft. In KDD, 2019. [[paper]](https://arxiv.org/abs/1906.03821) <br>
 Robusttad: Robust time series anomaly detection via decomposition and convolutional neural networks. In arXiv, 2020. [[paper]](https://arxiv.org/abs/2002.09545) <br>
-Fast and accurate partial fourier transform for time series data. In KDD, 2021. [[paper]](https://dl.acm.org/doi/10.1145/3447548.3467293) <br>
-TFAD: A decomposition time series anomaly detection architecture with time-frequency analysis. In CIKM, 2022. [[paper]](https://arxiv.org/abs/2210.09693) <br>
+Fast and accurate partial fourier transform for time series data. In KDD, 2021. [[paper]](https://dl.acm.org/doi/10.1145/3447548.3467293) [[code]](https://github.com/snudatalab/PFT) <br>
+TFAD: A decomposition time series anomaly detection architecture with time-frequency analysis. In CIKM, 2022. [[paper]](https://arxiv.org/abs/2210.09693) [[paper]](https://github.com/DAMO-DI-ML/CIKM22-TFAD) <br>
 ### Classification
 Multilevel wavelet decomposition network for interpretable time series analysis. In KDD, 2018. [[paper]](https://arxiv.org/abs/1806.08946) <br>
 Learning filter widths of spectral decompositions with wavelets. In NeurIPS, 2018. [[paper]](https://dl.acm.org/doi/10.5555/3327345.3327371) <br>
 Unsupervised time-series representation learning with iterative bilinear temporal-spectral fusion. In ICML, 2022. [[paper]](https://arxiv.org/abs/2202.04770) <br>
-Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, in NIPS 2022, [[paper]](https://openreview.net/forum?id=OJ4mMfGKLN) <br>
+Self-Supervised Contrastive Pre-Training For Time Series via Time-Frequency Consistency, in NIPS 2022, [[paper]](https://openreview.net/forum?id=OJ4mMfGKLN) [[code]](https://github.com/mims-harvard/TFC-pretraining) <br>
 ## Discussion for Future Opportunities
 ### Leveraging New Orthogonal Transform Technology
 In future, it would be a promising direction to incorporate more new orthogonal transform technologies for deep learning in time series analysis, such as orthogonal polynomials, DCT, and FrFT.
